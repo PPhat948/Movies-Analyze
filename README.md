@@ -22,7 +22,7 @@ https://www.kaggle.com/datasets/bharatnatrayn/movies-dataset-for-feature-extraci
 - Correlation heatmap
 - Trend of Total TV-Series
 - Average Rating Per years
-- Top 10 Movies
+- Top 10 TV-Series
 ### 3.Summmary insights
 - Most TV-Series rating are in 6-8.
 - Year with highest average rating are in 2018
