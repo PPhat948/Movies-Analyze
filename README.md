@@ -1,6 +1,6 @@
-# Movies-Analyze-Project
+# TV-Series-Analyze-Project
 ## Overview
-This is a project to practice my Python skills by cleaning the dataset and analyzing it by using visualization. It aims to find the top 10 movies in the year with the highest average movies rating.
+This is a project to practice my Python skills by cleaning the dataset and analyzing it by using visualization. It aims to find the top 10 TV-Series in the year with the highest average rating.
 ## Tools & Librarys
 - Jupyter Notebook
 - Pandas
@@ -21,12 +21,12 @@ https://www.kaggle.com/datasets/bharatnatrayn/movies-dataset-for-feature-extraci
 - Distribution of rating
 - Correlation heatmap
 - Trend of Total Movies
-- Average Movie Rating Per years
+- Average Rating Per years
 - Top 10 Movies
 ### 3.Summmary insights
 - Most movie rating are in 6-8.
-- Year with highest average movies rating are in 2018
-- Top 10 Movies in 2018 are:
+- Year with highest average rating are in 2018
+- Top 10 TV-Series in 2018 are:
   - Naui Ajusshi
   - My next guest needs no introduction with david letterman
   - Yeh Meri Family
