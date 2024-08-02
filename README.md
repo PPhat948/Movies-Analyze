@@ -20,11 +20,11 @@ https://www.kaggle.com/datasets/bharatnatrayn/movies-dataset-for-feature-extraci
 ### 2.Analysis
 - Distribution of rating
 - Correlation heatmap
-- Trend of Total Movies
+- Trend of Total TV-Series
 - Average Rating Per years
 - Top 10 Movies
 ### 3.Summmary insights
-- Most movie rating are in 6-8.
+- Most TV-Series rating are in 6-8.
 - Year with highest average rating are in 2018
 - Top 10 TV-Series in 2018 are:
   - Naui Ajusshi
