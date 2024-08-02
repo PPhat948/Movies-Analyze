@@ -25,6 +25,7 @@ https://www.kaggle.com/datasets/bharatnatrayn/movies-dataset-for-feature-extraci
 - Top 10 Netflix Movies and Series-Series
 ### 3.Summmary insights
 - Most rating are in 6-8.
+- Number of released Netflix Movies and Series are highly increased after 2010
 - Year with highest average rating are in 2018
 - Top 10 Netflix Movies and Series in 2018 are:
   - Naui Ajusshi
@@ -39,4 +40,7 @@ https://www.kaggle.com/datasets/bharatnatrayn/movies-dataset-for-feature-extraci
   - SKY Castle
 
 > [!NOTE]
-> The result in this project might incorrect due to dropping lots of data from missing values.
+> The average rating was not calculated before 2010 due to the low number of movies and series in that year.
+
+> [!WARNING]
+> The result in this project might be some incorrect due to dropping lots of data from missing values.
